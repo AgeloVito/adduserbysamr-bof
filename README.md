@@ -36,6 +36,9 @@ Add a user to localgroup by samr, groupName is "Administrators" by default, do n
 ## Refence
 
 https://loong716.top/posts/MS_SAMR_Tips/
+
 https://idiotc4t.com/redteam-research/netuseradd-ni-xiang
+
 https://learn.microsoft.com/zh-cn/windows/win32/secmgmt/built-in-and-account-domains
+
 
