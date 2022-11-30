@@ -33,7 +33,7 @@ Add a user to localgroup by samr, groupName is "Administrators" by default, do n
 <img width="1378" alt="image" src="https://user-images.githubusercontent.com/9564171/204736655-52747dae-18f7-407b-ae27-e499b6a89cb6.png">
 
 
-## refence
+## Refence
 
 https://loong716.top/posts/MS_SAMR_Tips/
 
